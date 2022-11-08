@@ -11,6 +11,7 @@ import java.util.List;
 @Builder
 @RedisHash("dictionary")
 public class Dictionary {
+
     @Id
     private String id;
 

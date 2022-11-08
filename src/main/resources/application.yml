@@ -1,0 +1,14 @@
+telegram:
+  api-url: "https://api.telegram.org/"
+  webhook-path:
+  bot-name:
+  bot-token:
+spring:
+  redis:
+    database: 0
+    host:
+    port:
+    password:
+    ssl: true
+server:
+  port: 5000

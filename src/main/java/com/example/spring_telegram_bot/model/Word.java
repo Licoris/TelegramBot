@@ -13,6 +13,7 @@ import java.util.Set;
 @AllArgsConstructor
 @RedisHash("word")
 public class Word {
+
     @Id
     private String word;
 
